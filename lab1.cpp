@@ -72,22 +72,4 @@ bool is_empty(List const &lst){
 List reverse_list(List &lst){
 
 }
-/*
-int main() {
-    chrono::steady_clock();
-    chrono::system_clock();
-    chrono::high_resolution_clock();
-
-    auto start = chrono::steady_clock::now();
-
-    int sum = 0;
-    for (int i=0; i != 1000000; ++i){
-        sum += i;
-    }
-
-    auto stop = chrono::steady_clock::now();
-    cout << sum << endl;
-    return 0;
-    }
-*/
 
